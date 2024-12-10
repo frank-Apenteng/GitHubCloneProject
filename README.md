@@ -1,2 +1,1 @@
-# GitHubCloneProject
-this is my cloned project 
+this is readme file
